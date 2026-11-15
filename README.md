@@ -11,7 +11,7 @@
 
 </div>
 
-Gosto de levar uma ideia do banco de dados até a tela do celular e depois medir se ela funcionou. Estagiei 1 ano e 10 meses como full stack e, em paralelo, criei sozinho uma rede social de jogos que hoje está na web, na Play Store e na App Store. Agora estou aprofundando em machine learning e em como colocar IA em produto de um jeito que dê para medir.
+Estagiei 1 ano e 10 meses como full stack e, em paralelo, criei sozinho uma rede social de jogos que hoje está na web, na Play Store e na App Store. Agora estou aprofundando em machine learning e em como colocar IA em produto de um jeito que dê para medir.
 
 ## Projetos
 
