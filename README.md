@@ -4,7 +4,7 @@
 
 **Desenvolvedor full stack · Ciência da Computação na UFRGS · IA aplicada a produto**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/bruno-ramos-7a7844267/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/bruno-andrade-ramos-7a7844267/)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/brunoramos09)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/brunoandraderamos)
 [![Checkpointd](https://img.shields.io/badge/checkpointd.com-0F4C81?style=flat-square)](https://www.checkpointd.com)
