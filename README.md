@@ -42,7 +42,7 @@ A recomendação de jogos parecidos do Checkpointd, medida antes de ir para prod
 
 **Sys-On Softwares** · Estagiário full stack · set/2024 a jul/2026
 
-Telas, funcionalidades e correções no SGMed, sistema usado pela Unimed, com Java, JSF, PrimeFaces e SQL Server.
+Telas, funcionalidades e correções em sistemas web com Java, JSF, PrimeFaces e SQL Server.
 
 ## Tecnologias
 
